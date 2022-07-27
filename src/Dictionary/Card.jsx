@@ -30,7 +30,7 @@ const card = (word, callWordApi, randomColor) => {
 export default ({ word, callWordApi }) => {
   let randomColor = Math.floor(Math.random() * 16777215).toString(16);
   return (
-    <Box sx={{ boxShadow: `7px 8px 13px 0px #${randomColor}`, minWidth: 275, textAlign: 'center' }}>
+    <Box sx={{ boxShadow: `7px 8px 13px 0px #${randomColor}`, minWidth: 500,maxWidth: "500px", textAlign: 'center' }}>
       <Card variant="elevation">{card(word, callWordApi, randomColor)}</Card>
     </Box>
   );
