@@ -457,7 +457,7 @@
     {
         "value": "adverse",
         "item": 92,
-        "completed": true
+        "completed": false
     },
     {
         "value": "adversity",
@@ -467,7 +467,7 @@
     {
         "value": "advocacy",
         "item": 94,
-        "completed": true
+        "completed": false
     },
     {
         "value": "advocate",
@@ -522,12 +522,12 @@
     {
         "value": "affliction",
         "item": 105,
-        "completed": true
+        "completed": false
     },
     {
         "value": "affluence",
         "item": 106,
-        "completed": false
+        "completed": true
     },
     {
         "value": "affront",
@@ -877,7 +877,7 @@
     {
         "value": "anathema",
         "item": 176,
-        "completed": true
+        "completed": false
     },
     {
         "value": "ancestry",
@@ -1037,7 +1037,7 @@
     {
         "value": "anthropomorphic",
         "item": 208,
-        "completed": false
+        "completed": true
     },
     {
         "value": "anticlimax",
@@ -1167,7 +1167,7 @@
     {
         "value": "appellation",
         "item": 234,
-        "completed": true
+        "completed": false
     },
     {
         "value": "append",
@@ -1227,7 +1227,7 @@
     {
         "value": "apropos",
         "item": 246,
-        "completed": true
+        "completed": false
     },
     {
         "value": "aptitude",
@@ -1357,12 +1357,12 @@
     {
         "value": "array",
         "item": 272,
-        "completed": true
+        "completed": false
     },
     {
         "value": "arrears",
         "item": 273,
-        "completed": false
+        "completed": true
     },
     {
         "value": "arrest",
@@ -1512,7 +1512,7 @@
     {
         "value": "assumption",
         "item": 303,
-        "completed": true
+        "completed": false
     },
     {
         "value": "assurance",
@@ -1597,7 +1597,7 @@
     {
         "value": "attain",
         "item": 320,
-        "completed": true
+        "completed": false
     },
     {
         "value": "attentive",
@@ -2097,7 +2097,7 @@
     {
         "value": "beseech",
         "item": 420,
-        "completed": false
+        "completed": true
     },
     {
         "value": "beset",
@@ -2307,7 +2307,7 @@
     {
         "value": "bolt",
         "item": 462,
-        "completed": false
+        "completed": true
     },
     {
         "value": "bolt",
@@ -2332,7 +2332,7 @@
     {
         "value": "boon",
         "item": 467,
-        "completed": true
+        "completed": false
     },
     {
         "value": "boorish",
@@ -2362,7 +2362,7 @@
     {
         "value": "bowdlerize",
         "item": 473,
-        "completed": true
+        "completed": false
     },
     {
         "value": "boycott",
@@ -2397,7 +2397,7 @@
     {
         "value": "breach",
         "item": 480,
-        "completed": true
+        "completed": false
     },
     {
         "value": "breadth",
@@ -2687,7 +2687,7 @@
     {
         "value": "canto",
         "item": 538,
-        "completed": false
+        "completed": true
     },
     {
         "value": "canvass",
@@ -2832,7 +2832,7 @@
     {
         "value": "categorical",
         "item": 567,
-        "completed": true
+        "completed": false
     },
     {
         "value": "cater to",
@@ -3022,7 +3022,7 @@
     {
         "value": "charlatan",
         "item": 605,
-        "completed": false
+        "completed": true
     },
     {
         "value": "chary",
@@ -3032,7 +3032,7 @@
     {
         "value": "chasm",
         "item": 607,
-        "completed": true
+        "completed": false
     },
     {
         "value": "chassis",
@@ -3762,7 +3762,7 @@
     {
         "value": "coronation",
         "item": 753,
-        "completed": false
+        "completed": true
     },
     {
         "value": "corporeal",
@@ -4137,7 +4137,7 @@
     {
         "value": "deft",
         "item": 828,
-        "completed": true
+        "completed": false
     },
     {
         "value": "defunct",
@@ -4317,7 +4317,7 @@
     {
         "value": "deploy",
         "item": 864,
-        "completed": true
+        "completed": false
     },
     {
         "value": "depose",
@@ -4402,7 +4402,7 @@
     {
         "value": "desolate",
         "item": 881,
-        "completed": false
+        "completed": true
     },
     {
         "value": "desolate",
@@ -4737,7 +4737,7 @@
     {
         "value": "dissection",
         "item": 948,
-        "completed": true
+        "completed": false
     },
     {
         "value": "dissemble",
@@ -4802,7 +4802,7 @@
     {
         "value": "distend",
         "item": 961,
-        "completed": false
+        "completed": true
     },
     {
         "value": "distill",
@@ -4837,7 +4837,7 @@
     {
         "value": "diverge",
         "item": 968,
-        "completed": true
+        "completed": false
     },
     {
         "value": "divergent",
@@ -4932,7 +4932,7 @@
     {
         "value": "domicile",
         "item": 987,
-        "completed": true
+        "completed": false
     },
     {
         "value": "domineer",
@@ -4992,7 +4992,7 @@
     {
         "value": "draconian",
         "item": 999,
-        "completed": true
+        "completed": false
     },
     {
         "value": "dregs",
@@ -5157,7 +5157,7 @@
     {
         "value": "edify",
         "item": 1032,
-        "completed": true
+        "completed": false
     },
     {
         "value": "eerie",
@@ -5257,7 +5257,7 @@
     {
         "value": "elliptical",
         "item": 1052,
-        "completed": true
+        "completed": false
     },
     {
         "value": "eloquence",
@@ -5377,7 +5377,7 @@
     {
         "value": "enamored",
         "item": 1076,
-        "completed": true
+        "completed": false
     },
     {
         "value": "encipher",
@@ -5592,7 +5592,7 @@
     {
         "value": "epicure",
         "item": 1119,
-        "completed": false
+        "completed": true
     },
     {
         "value": "epigram",
@@ -5657,7 +5657,7 @@
     {
         "value": "equine",
         "item": 1132,
-        "completed": true
+        "completed": false
     },
     {
         "value": "equinox",
@@ -5952,7 +5952,7 @@
     {
         "value": "exotic",
         "item": 1191,
-        "completed": true
+        "completed": false
     },
     {
         "value": "expansive",
@@ -6127,7 +6127,7 @@
     {
         "value": "facet",
         "item": 1226,
-        "completed": true
+        "completed": false
     },
     {
         "value": "facetious",
@@ -6152,7 +6152,7 @@
     {
         "value": "faction",
         "item": 1231,
-        "completed": false
+        "completed": true
     },
     {
         "value": "faculty",
@@ -6217,7 +6217,7 @@
     {
         "value": "fatuous",
         "item": 1244,
-        "completed": true
+        "completed": false
     },
     {
         "value": "fauna",
@@ -6532,7 +6532,7 @@
     {
         "value": "fluke",
         "item": 1307,
-        "completed": false
+        "completed": true
     },
     {
         "value": "fluster",
@@ -6642,7 +6642,7 @@
     {
         "value": "formidable",
         "item": 1329,
-        "completed": true
+        "completed": false
     },
     {
         "value": "forsake",
@@ -6792,7 +6792,7 @@
     {
         "value": "fruition",
         "item": 1359,
-        "completed": true
+        "completed": false
     },
     {
         "value": "frustrate",
@@ -6842,7 +6842,7 @@
     {
         "value": "futile",
         "item": 1369,
-        "completed": true
+        "completed": false
     },
     {
         "value": "gadfly",
@@ -6912,7 +6912,7 @@
     {
         "value": "gape",
         "item": 1383,
-        "completed": true
+        "completed": false
     },
     {
         "value": "garbled",
@@ -7942,7 +7942,7 @@
     {
         "value": "impiety",
         "item": 1589,
-        "completed": true
+        "completed": false
     },
     {
         "value": "impinge",
@@ -8017,7 +8017,7 @@
     {
         "value": "impoverished",
         "item": 1604,
-        "completed": true
+        "completed": false
     },
     {
         "value": "impregnable",
@@ -8307,7 +8307,7 @@
     {
         "value": "indenture",
         "item": 1662,
-        "completed": true
+        "completed": false
     },
     {
         "value": "indeterminate",
@@ -8372,7 +8372,7 @@
     {
         "value": "indissoluble",
         "item": 1675,
-        "completed": true
+        "completed": false
     },
     {
         "value": "indoctrinate",
@@ -8507,7 +8507,7 @@
     {
         "value": "informal",
         "item": 1702,
-        "completed": true
+        "completed": false
     },
     {
         "value": "infraction",
@@ -8607,7 +8607,7 @@
     {
         "value": "innovation",
         "item": 1722,
-        "completed": true
+        "completed": false
     },
     {
         "value": "innovative",
@@ -9022,7 +9022,7 @@
     {
         "value": "irretrievable",
         "item": 1805,
-        "completed": false
+        "completed": true
     },
     {
         "value": "irreverence",
@@ -9322,7 +9322,7 @@
     {
         "value": "Iax",
         "item": 1865,
-        "completed": true
+        "completed": false
     },
     {
         "value": "leaven",
@@ -10097,7 +10097,7 @@
     {
         "value": "mimicry",
         "item": 2020,
-        "completed": true
+        "completed": false
     },
     {
         "value": "mincing",
@@ -10152,7 +10152,7 @@
     {
         "value": "mischance",
         "item": 2031,
-        "completed": true
+        "completed": false
     },
     {
         "value": "misconception",
@@ -10287,7 +10287,7 @@
     {
         "value": "monetary",
         "item": 2058,
-        "completed": true
+        "completed": false
     },
     {
         "value": "monochromatic",
@@ -10412,7 +10412,7 @@
     {
         "value": "multilingual",
         "item": 2083,
-        "completed": true
+        "completed": false
     },
     {
         "value": "multiplicity",
@@ -10467,7 +10467,7 @@
     {
         "value": "mutability",
         "item": 2094,
-        "completed": true
+        "completed": false
     },
     {
         "value": "muted",
@@ -10562,7 +10562,7 @@
     {
         "value": "negligence",
         "item": 2113,
-        "completed": false
+        "completed": true
     },
     {
         "value": "negligible",
@@ -10657,7 +10657,7 @@
     {
         "value": "nondescript",
         "item": 2132,
-        "completed": true
+        "completed": false
     },
     {
         "value": "nonentity",
@@ -10737,7 +10737,7 @@
     {
         "value": "obdurate",
         "item": 2148,
-        "completed": true
+        "completed": false
     },
     {
         "value": "obese",
@@ -11292,7 +11292,7 @@
     {
         "value": "paramount",
         "item": 2259,
-        "completed": true
+        "completed": false
     },
     {
         "value": "paranoia",
@@ -11702,7 +11702,7 @@
     {
         "value": "philanthropist",
         "item": 2341,
-        "completed": true
+        "completed": false
     },
     {
         "value": "philistine",
@@ -11872,7 +11872,7 @@
     {
         "value": "plausible",
         "item": 2375,
-        "completed": true
+        "completed": false
     },
     {
         "value": "plenitude",
@@ -11997,7 +11997,7 @@
     {
         "value": "portly",
         "item": 2400,
-        "completed": true
+        "completed": false
     },
     {
         "value": "poseur",
@@ -12522,7 +12522,7 @@
     {
         "value": "propulsive",
         "item": 2505,
-        "completed": true
+        "completed": false
     },
     {
         "value": "prosaic",
@@ -12617,12 +12617,12 @@
     {
         "value": "proximity",
         "item": 2524,
-        "completed": false
+        "completed": true
     },
     {
         "value": "proxy",
         "item": 2525,
-        "completed": true
+        "completed": false
     },
     {
         "value": "prude",
@@ -13407,7 +13407,7 @@
     {
         "value": "reparation",
         "item": 2682,
-        "completed": true
+        "completed": false
     },
     {
         "value": "repast",
@@ -13497,7 +13497,7 @@
     {
         "value": "reproach",
         "item": 2700,
-        "completed": true
+        "completed": false
     },
     {
         "value": "reprobate",
@@ -13582,7 +13582,7 @@
     {
         "value": "resolution",
         "item": 2717,
-        "completed": true
+        "completed": false
     },
     {
         "value": "resolve",
@@ -13692,7 +13692,7 @@
     {
         "value": "retribution",
         "item": 2739,
-        "completed": false
+        "completed": true
     },
     {
         "value": "retrieve",
@@ -13772,7 +13772,7 @@
     {
         "value": "riddle",
         "item": 2755,
-        "completed": true
+        "completed": false
     },
     {
         "value": "rider",
@@ -13892,7 +13892,7 @@
     {
         "value": "ruminate",
         "item": 2779,
-        "completed": true
+        "completed": false
     },
     {
         "value": "rummage",
@@ -14407,7 +14407,7 @@
     {
         "value": "sibling",
         "item": 2882,
-        "completed": false
+        "completed": true
     },
     {
         "value": "simian",
@@ -14652,7 +14652,7 @@
     {
         "value": "soluble",
         "item": 2931,
-        "completed": true
+        "completed": false
     },
     {
         "value": "solvent",
@@ -14857,7 +14857,7 @@
     {
         "value": "stamina",
         "item": 2972,
-        "completed": false
+        "completed": true
     },
     {
         "value": "stanch",
@@ -14987,7 +14987,7 @@
     {
         "value": "stratum",
         "item": 2998,
-        "completed": false
+        "completed": true
     },
     {
         "value": "strew",
@@ -15157,7 +15157,7 @@
     {
         "value": "subversive",
         "item": 3032,
-        "completed": true
+        "completed": false
     },
     {
         "value": "succinct",
@@ -15302,7 +15302,7 @@
     {
         "value": "surveillance",
         "item": 3061,
-        "completed": true
+        "completed": false
     },
     {
         "value": "susceptible",
@@ -15372,7 +15372,7 @@
     {
         "value": "sycophant",
         "item": 3075,
-        "completed": true
+        "completed": false
     },
     {
         "value": "symbiosis",
@@ -15462,7 +15462,7 @@
     {
         "value": "tarantula",
         "item": 3093,
-        "completed": true
+        "completed": false
     },
     {
         "value": "tarry",
@@ -15512,7 +15512,7 @@
     {
         "value": "temperate",
         "item": 3103,
-        "completed": true
+        "completed": false
     },
     {
         "value": "tempestuous",
@@ -15647,7 +15647,7 @@
     {
         "value": "thrifty",
         "item": 3130,
-        "completed": true
+        "completed": false
     },
     {
         "value": "thrive",
@@ -15827,7 +15827,7 @@
     {
         "value": "transient",
         "item": 3166,
-        "completed": true
+        "completed": false
     },
     {
         "value": "transition",
@@ -16042,7 +16042,7 @@
     {
         "value": "tyro",
         "item": 3209,
-        "completed": true
+        "completed": false
     },
     {
         "value": "ubiquitous",
@@ -16547,7 +16547,7 @@
     {
         "value": "vignette",
         "item": 3310,
-        "completed": false
+        "completed": true
     },
     {
         "value": "vigor",
@@ -16792,7 +16792,7 @@
     {
         "value": "wax",
         "item": 3359,
-        "completed": false
+        "completed": true
     },
     {
         "value": "waylay",
@@ -16882,7 +16882,7 @@
     {
         "value": "wispy",
         "item": 3377,
-        "completed": false
+        "completed": true
     },
     {
         "value": "wistful",
@@ -16947,7 +16947,7 @@
     {
         "value": "writhe",
         "item": 3390,
-        "completed": false
+        "completed": true
     },
     {
         "value": "wry",
